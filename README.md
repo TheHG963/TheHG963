@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TheHG963
-- 🌱 I’m currently learning Html, Javascript, And php
+- 🌱 I’m currently learning HTML, Javascript, And PHP
 - 😄 Pronouns: He/Him
